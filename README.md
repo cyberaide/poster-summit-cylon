@@ -3,7 +3,7 @@
 
 URL: <https://github.com/cyberaide/poster-summit-cylon/edit/main/README.md>
 
-Authors: Arup Sakar,  Niranda Perera, Gregor von Laszewski, Mills Staylor, C. Fox
+Authors: Arup Sakar,  Niranda Perera, Gregor von Laszewski, Mills Staylor, Geoffrey C. Fox
 
 ## Abstract
 
