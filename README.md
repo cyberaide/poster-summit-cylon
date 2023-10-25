@@ -1,5 +1,5 @@
 
-# "Enhancing Scientific Data Pipelines for HPC Environments"
+# Heterogeneous DataPipelines for Scientific Computing
 
 URL: <https://github.com/cyberaide/poster-summit-cylon/edit/main/README.md>
 
